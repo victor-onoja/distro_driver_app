@@ -1,0 +1,9 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Track">
+<g id="Group">
+<path id="Vector" d="M8.00028 13.1429C10.8406 13.1429 13.1431 10.8404 13.1431 8.00004C13.1431 5.15971 10.8406 2.85718 8.00028 2.85718C5.15996 2.85718 2.85742 5.15971 2.85742 8.00004C2.85742 10.8404 5.15996 13.1429 8.00028 13.1429Z" stroke="#696969" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M8.0001 10.4771C9.36793 10.4771 10.4768 9.3683 10.4768 8.00047C10.4768 6.63265 9.36793 5.5238 8.0001 5.5238C6.63228 5.5238 5.52344 6.63265 5.52344 8.00047C5.52344 9.3683 6.63228 10.4771 8.0001 10.4771Z" stroke="#696969" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M8 2.85713L8 1.5M8 14.5L8 13.1428M13.1429 7.99998L14.5 8M1.5 8L2.85714 7.99998" stroke="#696969" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
